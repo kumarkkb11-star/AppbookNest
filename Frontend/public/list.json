@@ -1,0 +1,84 @@
+[
+    {
+        "id":"1",
+        "name": "Story Book",
+        "Price": "₹0",
+        "catagory": "Free",
+        "Order":"Buy Now",
+        "title":"A card component has a figure, a body part, and inside body there are title and actions parts",
+        "image": "https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?semt=ais_hybrid&w=740&q=80" 
+    },
+    {
+        "id":"2",
+        "name":"Comedy Book",
+        "Price": "₹20",
+        "catagory": "paid ",
+        "Order":"Buy Now",
+        "title":"A card component has a figure, a body part, and inside body there are title and actions parts",
+        "image": "https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?semt=ais_hybrid&w=740&q=80" 
+    },
+    {
+        "id":"3",
+        "Price": "₹50",
+        "name":" Magazin",
+        "catagory": "paid",
+        "Order":"Buy Now",
+        "title":"A card component has a figure, a body part, and inside body there are title and actions parts",
+        "image": "https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?semt=ais_hybrid&w=740&q=80" 
+    },
+    {
+        "id":"4",
+        "name": "Sports Book",
+        "catagory": "paid",
+        "Order":"Buy Now",
+        "title":"A card component has a figure, a body part, and inside body there are title and actions parts",
+        "Price": "₹60",
+        
+        "image": "https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?semt=ais_hybrid&w=740&q=80" 
+    },
+    {
+        "id":"5",
+        "name":"Food Book",
+        "Price": "₹0",
+        "catagory": "Free",
+        "Order":"Buy Now",
+        "title":"A card component has a figure, a body part, and inside body there are title and actions parts",
+        "image": "https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?semt=ais_hybrid&w=740&q=80" 
+    },
+    {
+        "id":"6",
+        "name":" Magazin",
+        "Price": "₹0",
+        "catagory": "Free",
+        "Order":"Buy Now",
+        "title":"A card component has a figure, a body part, and inside body there are title and actions parts",
+        "image": "https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?semt=ais_hybrid&w=740&q=80" 
+    },
+    {
+        "id":"7",
+        "name": "Sports Book",
+        "catagory": "paid ",
+        "Order":"Buy Now",
+        "title":"A card component has a figure, a body part, and inside body there are title and actions parts",
+        "Price": "₹60",
+        "image": "https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?semt=ais_hybrid&w=740&q=80" 
+    },
+    {
+        "id":"8",
+        "name":"Food Book",
+        "Price": "₹0",
+        "catagory": "Free",
+        "Order":"Buy Now",
+        "title":"A card component has a figure, a body part, and inside body there are title and actions parts",
+        "image": "https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?semt=ais_hybrid&w=740&q=80" 
+    },
+    {
+        "id":"9",
+        "name":" Magazin",
+        "Price": "₹50",
+        "catagory": "paid",
+        "Order":"Buy Now",
+        "title":"A card component has a figure, a body part, and inside body there are title and actions parts",
+        "image": "https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?semt=ais_hybrid&w=740&q=80" 
+    }
+]
