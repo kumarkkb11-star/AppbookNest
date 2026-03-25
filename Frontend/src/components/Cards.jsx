@@ -28,7 +28,7 @@ function Cards({ item }) {
           <div className="card-actions justify-between items-center mt-3">
 
             <span className="badge badge-outline  text-white px-4 py-3">
-              {item.Price}
+              ₹{item.Price}
             </span>
 
             <button className="btn btn-sm bg-white hover:bg-pink-400 text-black border-none">
